@@ -1,0 +1,1 @@
+string nrTelefone = 13959871537
